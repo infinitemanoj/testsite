@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Testite\\Testite\\Testite.csproj": {}
+    "C:\\Users\\maano\\Source\\Repos\\testsite\\Testite\\Testite\\Testite.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Testite\\Testite\\Testite.csproj": {
+    "C:\\Users\\maano\\Source\\Repos\\testsite\\Testite\\Testite\\Testite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Testite\\Testite\\Testite.csproj",
+        "projectUniqueName": "C:\\Users\\maano\\Source\\Repos\\testsite\\Testite\\Testite\\Testite.csproj",
         "projectName": "Testite",
-        "projectPath": "D:\\Projects\\Testite\\Testite\\Testite.csproj",
+        "projectPath": "C:\\Users\\maano\\Source\\Repos\\testsite\\Testite\\Testite\\Testite.csproj",
         "packagesPath": "C:\\Users\\maano\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Testite\\Testite\\obj\\",
+        "outputPath": "C:\\Users\\maano\\Source\\Repos\\testsite\\Testite\\Testite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
